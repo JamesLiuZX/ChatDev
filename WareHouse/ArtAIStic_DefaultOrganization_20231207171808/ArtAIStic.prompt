@@ -1,0 +1,9 @@
+We allow commercializat
+ion of generative AI generated artwork. Using replicate as the base model 
+API, we allow users to choose from preset styles to generate a prompt-base
+d artwork, or they can upload 3-5 images to train their own models, fine-t
+une the SDXL on replicate and save that as their unique style. After the a
+rtwork is generated, they can export it to e-commerce platforms like Shopi
+fy and Etsy, where they can then integrate with 3rd party applications lik
+e Printify to fulfill 3D printed products of that design, such as posters,
+ gifts, phone cases, shirts, etc. This project should be done as a webapp using typescript react, tailwind css, and next.js. it should accurately define the middleware for api endpoints, doing sufficient research on replicate, shopify, and shopify app plugin ecosystem.
